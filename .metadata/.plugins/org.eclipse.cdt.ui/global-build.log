@@ -1,0 +1,29 @@
+18:42:40 **** Rebuild of configuration Debug for project TP_N1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\funciones.o" "..\\src\\funciones.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\TP Nº1.o" "..\\src\\TP Nº1.c" 
+gcc -o TP_N1.exe "src\\TP Nº1.o" "src\\funciones.o" 
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+18:58:38 **** Incremental Build of configuration Debug for project TP_N1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\TP Nº1.o" "..\\src\\TP Nº1.c" 
+gcc -o TP_N1.exe "src\\TP Nº1.o" "src\\funciones.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TP_N1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+18:58:43 **** Incremental Build of configuration Debug for project TP_N1 ****
+Info: Internal Builder is used for build
+gcc -o TP_N1.exe "src\\TP Nº1.o" "src\\funciones.o" 
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
+Info: Nothing to build for TP_N1
