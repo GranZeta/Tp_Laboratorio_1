@@ -26,11 +26,7 @@ typedef struct
 	char descripcionP[51];
 }etypePasajero;
 
-typedef struct
-{
-	int flycode;
-	char descripcionC[51];
-}eCodigoVuelo;
+
 
 
 
