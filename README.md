@@ -1,1 +1,1 @@
-Tp_Nº1_Laboratorio_1
+Tp_Laboratorio_1
